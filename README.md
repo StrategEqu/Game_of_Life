@@ -8,4 +8,3 @@
 
 //Таблица с показателями
 
-//git checkout develop
